@@ -206,3 +206,10 @@ And finally, for the fifth image, the model was not sure that this is a Children
 | .0687			| Beware of ice/snow										|
 | .0471	      			| General caution					 				|
 | .0353				    | Bicycles crossing				|
+
+##Improvement points:
+
+1. The traffic sign data can be augmented by rotating or shifting the current data.
+2. Regularization could be only applied to fully-connected layers as suggested by the literature
+3. Could use another architecture suggested by Daniel Nouri’s [tutorial](https://navoshta.com/traffic-signs-classification/). 4 layers: 3 convolutional layers for feature extraction and one fully connected layer as a classifier with multi-scale features.
+4. Step four of analyzing hidden layers output could be improved and discussed.
