@@ -15,15 +15,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./img1.jpg "Traffic sign example"
+[image1]: ./img1.png "Traffic sign example"
 [image2]: ./imageAfterGrayscale.png "Image after grayscale and resizing"
-[image3]: ./trainingBarPlot.jpg "Traffic sign distribution (training set)"
-[image4]: ./validationBarPlot.jpg "Traffic sign distribution (validation set)"
-[image5]: ./img1.jpg "German traffic sign from internet"
-[image6]: ./img2.jpg "German traffic sign from internet"
-[image7]: ./img3.jpg "German traffic sign from internet"
-[image8]: ./img4.jpg "German traffic sign from internet"
-[image9]: ./img5.jpg "German traffic sign from internet"
+[image3]: ./trainingBarPlot.png "Traffic sign distribution (training set)"
+[image4]: ./validationBarPlot.png "Traffic sign distribution (validation set)"
+[image5]: ./img1.png "German traffic sign from internet"
+[image6]: ./img2.png "German traffic sign from internet"
+[image7]: ./img3.png "German traffic sign from internet"
+[image8]: ./img4.png "German traffic sign from internet"
+[image9]: ./img5.png "German traffic sign from internet"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
